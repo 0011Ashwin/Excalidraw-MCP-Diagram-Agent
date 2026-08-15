@@ -1,7 +1,6 @@
 # 01 — Excalidraw MCP Diagram Agent
 
-**Difficulty:** Easy
-**Time:** 1-3 hours
+
 **What it does:** Describe any system, workflow, or architecture in plain text and get a beautiful, editable diagram in Excalidraw automatically.
 
 ## Why build this
